@@ -3,3 +3,6 @@
 _drafts/
 _site/
 _posts/draft*.md
+Gemfile
+Gemfile.lock
+jekyll-theme-minimal.gemspec

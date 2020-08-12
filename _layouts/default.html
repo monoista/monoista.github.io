@@ -38,7 +38,9 @@
         </ul>
         {% endif %}
 
-        {% include navigation.html %}
+        {% if site.show_navigation %}
+          {% include navigation.html %}
+        {% endif %}
       </header>
       
       <section>
