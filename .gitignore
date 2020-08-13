@@ -1,8 +1,8 @@
 .DS_Store
 .jekyll-cache/
 _drafts/
-_site/
 _posts/draft*.md
+_site/
 Gemfile
 Gemfile.lock
 jekyll-theme-minimal.gemspec

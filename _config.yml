@@ -6,3 +6,6 @@ show_navigation: true
 show_footer: false
 google_analytics:
 theme: jekyll-theme-minimal
+plugins: [jekyll-paginate]
+#gems: [jekyll-paginate]
+paginate: 5
