@@ -13,5 +13,5 @@ and add this at the bottom
 
 ````bash
 # Disable internal Bluetooth adapter
-dtoverlay=pi3-disable-bt
+dtoverlay=disable-bt
 ````
